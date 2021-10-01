@@ -1,12 +1,19 @@
-## Hi there 👋
+## About
 
-<!--
+Consulo - multi-language ide. Project was started in 2013 year by forking [IDEA Community Edition](https://github.com/JetBrains/intellij-community).
 
-**Here are some ideas to get you started:**
+Main goal - create **open** IDE where you don't need select IDE for different languages. Provide a standard for language implementation inside IDE.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## Contributing
+
+If you can't describe issue, you can use our [forum](https://discuss.consulo.io/), or you can read [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)  and report issue at GitHub
+
+## Links
+
+* [Contributing Guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)
+* [Download](https://consulo.app)
+* [User Help](https://consulo.help)
+* [Dev Documentation](https://consulo.dev)
+* [Issues](https://github.com/consulo/consulo/issues)
+* [Forum](https://discuss.consulo.io/)
+* [Discord Channel](https://discord.gg/Ab3Ka5gTFv)
