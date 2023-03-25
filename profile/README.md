@@ -15,5 +15,5 @@ If you can't describe issue, you can use our [forum](https://discuss.consulo.io/
 * [User Help](https://consulo.help)
 * [Dev Documentation](https://consulo.dev)
 * [Issues](https://github.com/consulo/consulo/issues)
-* [Forum](https://discuss.consulo.io/)
+* [Forum](https://github.com/consulo/consulo/discussions)
 * [Discord Channel](https://discord.gg/Ab3Ka5gTFv)
