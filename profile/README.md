@@ -6,7 +6,7 @@ Main goal - create **open** IDE where you don't need select IDE for different la
 
 ## Contributing
 
-If you can't describe issue, you can use our [forum](https://discuss.consulo.io/), or you can read [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)  and report issue at GitHub
+If you can't describe issue, you can use our [forum](https://github.com/consulo/consulo/discussions), or you can read [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)  and report issue at GitHub
 
 ## Links
 
