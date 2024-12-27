@@ -66,7 +66,7 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
     <td width="225">
       <ul>
-        <li> <a href="https://github.com/consulo/python.svg">Python</a></li>
+        <li> <a href="https://github.com/consulo/consulo-python">Python</a></li>
       </ul>     
     </td>  
   </tr>
@@ -85,10 +85,10 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
         <li><a href="https://github.com/consulo/consulo-css">CSS</a></li>
       </ul>
     </td>
-    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/dart.svg"></td>
     <td width="225">
       <ul>
-        <li> <a href="https://github.com/consulo/python.svg">Python</a></li>
+        <li> <a href="https://github.com/consulo/google-dart">Dart</a></li>
       </ul>     
     </td>  
   </tr>
