@@ -46,7 +46,8 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/dotnet.svg"></td>
     <td width="225">
       <ul>
-        <li><a href="https://github.com/consulo/consulo-dotnet">.NET (Core)</a></li>
+        <li><a href="https://github.com/consulo/consulo-dotnet">.NET Platform</a></li>
+        <li><a href="https://github.com/consulo/consulo-dotnet-core">.NET (Core)</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">.NET Framework</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">Mono</a></li>
         <li><a href="https://github.com/consulo/consulo-csharp">C#</a></li>
