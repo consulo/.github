@@ -45,7 +45,7 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/go.svg"></td>
     <td width="225">
       <ul>
-        <li> <a href="https://github.com/consulo/consulo-google.go">Go</a></li>
+        <li> <a href="https://github.com/consulo/consulo-google-go">Go</a></li>
       </ul>     
     </td>  
   </tr>
@@ -75,7 +75,7 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-javascript">JavaScript</a></li>
-        <li><a href="https://github.com/consulo/consulo-nodejs">NodeJS</a></li>
+        <li><a href="https://github.com/consulo/consulo-nodejs">Node.js</a></li>
       </ul>
     </td>    
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/html.svg"></td>
