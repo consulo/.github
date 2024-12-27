@@ -50,7 +50,7 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     </td>  
   </tr>
   <tr>
-    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/php.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/php2.svg"></td>
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-php">PHP</a></li>
