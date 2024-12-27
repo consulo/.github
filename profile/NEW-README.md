@@ -6,7 +6,7 @@ Main goal - create **open** IDE where you don't need select IDE for different la
 
 ## Contributing
 
-If you can't describe issue, you can use our [forum](https://github.com/consulo/consulo/discussions), or you can read [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)  and report issue at GitHub
+If you can't describe issue, you can use our [discussions](https://github.com/consulo/consulo/discussions), or you can read [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md)  and report issue at GitHub
 
 ## Links
 
@@ -18,6 +18,7 @@ If you can't describe issue, you can use our [forum](https://github.com/consulo/
 * [Forum](https://github.com/consulo/consulo/discussions)
 * [Discord Channel](https://discord.gg/Ab3Ka5gTFv)
 
+## Languages & Frameworks 
 
 <table>
   <tr>
@@ -28,6 +29,7 @@ If you can't describe issue, you can use our [forum](https://github.com/consulo/
         <li><a href="https://github.com/consulo/consulo-groovy">Groovy</a></li>
         <li><a href="https://github.com/consulo/consulo-maven">Maven</a></li>
         <li><a href="https://github.com/consulo/consulo-gradle">Gradle</a></li>
+        <li><a href="https://github.com/consulo/consulo-spring">Spring</a></li>
       </ul>
     </td>    
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/dotnet.svg"></td>
@@ -59,6 +61,28 @@ If you can't describe issue, you can use our [forum](https://github.com/consulo/
       <ul>
         <li><a href="https://github.com/consulo/consulo-unity3d">Unity</a></li>
         <li><a href="https://github.com/consulo/UnityEditorConsuloPlugin">UnityEditorConsuloPlugin</a></li>
+      </ul>
+    </td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
+    <td width="225">
+      <ul>
+        <li> <a href="https://github.com/consulo/python.svg">Python</a></li>
+      </ul>     
+    </td>  
+  </tr>
+  <tr>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/js.svg"></td>
+    <td width="225">
+      <ul>
+        <li><a href="https://github.com/consulo/consulo-javascript">JavaScript</a></li>
+        <li><a href="https://github.com/consulo/consulo-nodejs">NodeJS</a></li>
+      </ul>
+    </td>    
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/html.svg"></td>
+    <td width="225">
+      <ul>
+        <li><a href="https://github.com/consulo/consulo-xml">XML & HTML</a></li>
+        <li><a href="https://github.com/consulo/consulo-css">CSS</a></li>
       </ul>
     </td>
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
