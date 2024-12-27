@@ -18,8 +18,22 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
 * [Forum](https://github.com/consulo/consulo/discussions)
 * [Discord Channel](https://discord.gg/Ab3Ka5gTFv)
 
-## Languages & Frameworks 
+## IDE (Platform) Repositories
+<table>
+  <tr>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/consulo.png"></td>
+    <td width="870">
+      <ul>
+        <li><a href="https://github.com/consulo/consulo"><b>Consulo</b></a> - main repository of IDE</li>
+        <li><a href="https://github.com/consulo/consulo-dap">Debug Adapter Protocol</a></li>
+        <li><a href="https://github.com/consulo/consulo-devkit">DevKit for Consulo</a></li>
+      </ul>
+    </td>    
+  </tr>
+</table>
 
+
+## Languages & Frameworks Repositories
 <table>
   <tr>
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/java.svg"></td>
@@ -60,7 +74,7 @@ If you can't describe issue, you can use our [discussions](https://github.com/co
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-unity3d">Unity</a></li>
-        <li><a href="https://github.com/consulo/UnityEditorConsuloPlugin">UnityEditorConsuloPlugin</a></li>
+        <li><a href="https://github.com/consulo/UnityEditorConsuloPlugin">Unity Editor Plugin</a></li>
       </ul>
     </td>
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
