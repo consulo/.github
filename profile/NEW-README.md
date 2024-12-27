@@ -21,22 +21,26 @@ If you can't describe issue, you can use our [forum](https://github.com/consulo/
 
 <table>
   <tr>
-    <td width="90"><img src="profile/java.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/java.svg"></td>
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-java">Java</a></li>
         <li><a href="https://github.com/consulo/consulo-groovy">Groovy</a></li>
+        <li><a href="https://github.com/consulo/consulo-maven">Maven</a></li>
+        <li><a href="https://github.com/consulo/consulo-gradle">Gradle</a></li>
       </ul>
     </td>    
-    <td width="90"><img src="profile/dotnet.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/dotnet.svg"></td>
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-dotnet">.NET (Core)</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">.NET Framework</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">Mono</a></li>
+        <li><a href="https://github.com/consulo/consulo-csharp">C#</a></li>
+        <li><a href="https://github.com/consulo/consulo-msbuild">MSBuild</a></li>
       </ul>
     </td>
-    <td width="90"><img src="profile/go.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/go.svg"></td>
     <td width="225">
       <ul>
         <li> <a href="https://github.com/consulo/consulo-google.go">Go</a></li>
@@ -44,21 +48,20 @@ If you can't describe issue, you can use our [forum](https://github.com/consulo/
     </td>  
   </tr>
   <tr>
-    <td width="90"><img src="profile/java.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/php.svg"></td>
     <td width="225">
       <ul>
-        <li><a href="https://github.com/consulo/consulo-java">Java</a></li>
-        <li><a href="https://github.com/consulo/consulo-groovy">Groovy</a></li>
+        <li><a href="https://github.com/consulo/consulo-php">PHP</a></li>
       </ul>
     </td>    
-    <td width="90"><img src="profile/unity.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/unity.svg"></td>
     <td width="225">
       <ul>
         <li><a href="https://github.com/consulo/consulo-unity3d">Unity</a></li>
         <li><a href="https://github.com/consulo/UnityEditorConsuloPlugin">UnityEditorConsuloPlugin</a></li>
       </ul>
     </td>
-    <td width="90"><img src="profile/python.svg"></td>
+    <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/python.svg"></td>
     <td width="225">
       <ul>
         <li> <a href="https://github.com/consulo/python.svg">Python</a></li>
