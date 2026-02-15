@@ -96,6 +96,7 @@ If you're seeking for help, visit our [GitHub Discussions](https://github.com/co
       <ul>
         <li><a href="https://github.com/consulo/consulo-javascript">JavaScript</a></li>
         <li><a href="https://github.com/consulo/consulo-nodejs">Node.js</a></li>
+        <li><a href="https://github.com/consulo/chrome-consulo-debugger-extension">Chrome Debugger Extension</a></li>
       </ul>
     </td>
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/html.svg"></td>
