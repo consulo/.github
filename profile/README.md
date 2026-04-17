@@ -109,7 +109,7 @@ If you're seeking for help, visit our [GitHub Discussions](https://github.com/co
     <td width="90"><img src="https://raw.githubusercontent.com/consulo/.github/refs/heads/master/profile/dart.svg"></td>
     <td width="225">
       <ul>
-        <li><a href="https://github.com/consulo/google-dart">Dart</a></li>
+        <li><a href="https://github.com/consulo/consulo-google-dart">Dart</a></li>
       </ul>
     </td>
   </tr>
