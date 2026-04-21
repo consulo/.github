@@ -57,7 +57,7 @@ If you're seeking for help, visit our [GitHub Discussions](https://github.com/co
         <li><a href="https://github.com/consulo/consulo-dotnet">.NET Platform</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-core">.NET (Core)</a></li>
         <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">.NET Framework</a></li>
-        <li><a href="https://github.com/consulo/consulo-dotnet-microsoft">Mono</a></li>
+        <li><a href="https://github.com/consulo/consulo-dotnet-mono">Mono</a></li>
         <li><a href="https://github.com/consulo/consulo-csharp">C#</a></li>
         <li><a href="https://github.com/consulo/consulo-msbuild">MSBuild</a></li>
       </ul>
