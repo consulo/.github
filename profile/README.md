@@ -20,7 +20,7 @@
 
 ---
 
-### 🧩 Platform
+### Platform
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-### 🔌 Main plugins
+### Main plugins
 
 Each language is a separate plugin with its own repository — report issues there.
 
@@ -200,6 +200,6 @@ Each language is a separate plugin with its own repository — report issues the
 Full list: <a href="https://github.com/orgs/consulo/repositories">all repositories</a>.
 </details>
 
-### 🤝 Contributing
+### Contributing
 
 Check if there's already a ticket before reporting a problem. Read the [contributing guide](https://github.com/consulo/consulo/blob/master/CONTRIBUTING.md).
